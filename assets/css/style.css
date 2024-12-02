@@ -11,6 +11,10 @@
   align-items: center;
 }
 
+.imagen-sticker {
+  width: 500px;
+}
+
 .contenedor-imagen input {
   padding: 10px;
   margin-top: 20px;
